@@ -16070,3 +16070,4 @@ Mário Baltazar
 - [Jens L] (https://github.com/PretentiousPanda)
 - [Futuregit] (https://github.com/futuregit)
 - [Ryuk07] (https://github.com/Ryuk07)
+- [vishnupal] (https://github.com/vishnupal)
